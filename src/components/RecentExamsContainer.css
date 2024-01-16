@@ -1,0 +1,189 @@
+.recent-exams1,
+.see-all1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.see-all1 {
+  left: 926px;
+  color: var(--primary);
+}
+.recent-exams-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 19px;
+}
+.hitsee {
+  position: relative;
+  font-weight: 600;
+}
+.amity-jee-wrapper,
+.ap-eapcet-wrapper,
+.beee-wrapper,
+.bitsat-wrapper,
+.cieat-wrapper,
+.gate-wrapper,
+.geee-wrapper,
+.hitsee-wrapper,
+.iat-iiser-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  position: absolute;
+  top: 0;
+  left: 1183px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--primary);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mini);
+}
+.amity-jee-wrapper,
+.ap-eapcet-wrapper,
+.beee-wrapper,
+.bitsat-wrapper,
+.cieat-wrapper,
+.gate-wrapper,
+.geee-wrapper,
+.iat-iiser-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 1282px;
+}
+.amity-jee-wrapper,
+.ap-eapcet-wrapper,
+.beee-wrapper,
+.bitsat-wrapper,
+.cieat-wrapper,
+.gate-wrapper,
+.geee-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 1390px;
+}
+.amity-jee-wrapper,
+.ap-eapcet-wrapper,
+.beee-wrapper,
+.bitsat-wrapper,
+.cieat-wrapper,
+.gate-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 1009px;
+}
+.amity-jee-wrapper,
+.ap-eapcet-wrapper,
+.beee-wrapper,
+.bitsat-wrapper,
+.gate-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 893px;
+}
+.ap-eapcet-wrapper,
+.beee-wrapper,
+.bitsat-wrapper,
+.gate-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 1098px;
+}
+.ap-eapcet-wrapper,
+.bitsat-wrapper,
+.gate-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 68px;
+}
+.ap-eapcet-wrapper,
+.bitsat-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 154px;
+}
+.bitsat-wrapper,
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 279px;
+}
+.jee-advanced-wrapper,
+.jee-mains-wrapper {
+  left: 377px;
+}
+.jee-advanced-wrapper {
+  left: 493px;
+}
+.ts-eamcet-wrapper {
+  left: 637px;
+  border: 1px solid var(--primary);
+}
+.all-wrapper,
+.ts-eamcet-container,
+.ts-eamcet-wrapper {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-mini);
+}
+.ts-eamcet-container {
+  left: 765px;
+  border: 1px solid var(--primary);
+}
+.all-wrapper {
+  left: 0;
+  background-color: var(--primary);
+  color: var(--color-white);
+}
+.group-frame,
+.recent-exams-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1456px;
+  height: 36px;
+}
+.recent-exams-inner {
+  top: 39px;
+  width: 980px;
+  overflow-x: auto;
+  font-size: var(--font-size-sm);
+  color: var(--primary);
+}
+.frame-div,
+.group-parent2,
+.recent-exams-child {
+  position: absolute;
+  top: 0;
+  width: 2540px;
+  height: 230px;
+}
+.group-parent2 {
+  left: calc(50% - 1270px);
+}
+.frame-div,
+.recent-exams-child {
+  left: 0;
+  overflow-x: auto;
+}
+.recent-exams-child {
+  top: 95px;
+  width: 976px;
+}
+.recent-exams {
+  position: absolute;
+  top: 649px;
+  left: 150px;
+  width: 980px;
+  height: 325px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}

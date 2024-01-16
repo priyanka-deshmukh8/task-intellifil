@@ -1,0 +1,136 @@
+.nav-bar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+  width: 1280px;
+  height: 100px;
+}
+.formlogo-1-icon1 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 100px;
+  height: 41.5px;
+  object-fit: cover;
+}
+.epsearch-icon,
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child4 {
+  border-radius: var(--br-xl);
+  border: 0.5px solid var(--primary);
+  box-sizing: border-box;
+  width: 250px;
+  height: 30px;
+}
+.epsearch-icon {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.epsearch-parent,
+.search-exams-here {
+  position: absolute;
+  top: 1px;
+  left: 32px;
+}
+.epsearch-parent {
+  top: 7px;
+  left: 10px;
+  width: 138px;
+  height: 16px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 10px;
+  left: 582px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.44);
+  width: 250px;
+  height: 30px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.carbonnotification-icon {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.ellipse-parent,
+.home {
+  position: absolute;
+  top: 0;
+}
+.ellipse-parent {
+  left: 874px;
+  width: 106px;
+  height: 50px;
+}
+.home {
+  left: 0;
+  font-weight: 500;
+  color: var(--primary);
+}
+.about-us1,
+.contact-us,
+.faq,
+.result {
+  position: absolute;
+  top: 0;
+  left: 219px;
+  font-weight: 500;
+}
+.contact-us,
+.faq,
+.result {
+  left: 319px;
+}
+.faq,
+.result {
+  left: 77px;
+}
+.faq {
+  left: 154px;
+}
+.home-parent {
+  position: absolute;
+  top: 16px;
+  left: 142px;
+  width: 398px;
+  height: 19px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-urbanist);
+}
+.formlogo-1-group,
+.nav-bar {
+  position: absolute;
+  top: 25px;
+  left: 150px;
+  width: 980px;
+  height: 50px;
+}
+.nav-bar {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 100px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-raleway);
+}

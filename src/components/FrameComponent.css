@@ -1,0 +1,35 @@
+.bxlplay-store-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.download-on-the {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.play-store {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.download-on-the-container {
+  position: relative;
+  letter-spacing: 1px;
+  line-height: 114%;
+}
+.bxlplay-store-parent {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-mini);
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-urbanist);
+}

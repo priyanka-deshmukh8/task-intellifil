@@ -1,0 +1,132 @@
+.ads-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 490px);
+  border-radius: var(--br-xl);
+  background: linear-gradient(97.12deg, #000 50.47%, #3f3f3f 95.91%);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 980px;
+  height: 180px;
+}
+.gate1 {
+  margin: 0;
+}
+.results {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.gate-results {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.2px;
+  line-height: 120%;
+}
+.group-child1 {
+  position: absolute;
+  top: 6.75px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 102.5px;
+  height: 0.5px;
+}
+.div2 {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 120%;
+  font-weight: 500;
+}
+.line-container,
+.wrapper {
+  position: absolute;
+  height: 15px;
+}
+.wrapper {
+  top: 0;
+  left: 26px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  box-sizing: border-box;
+}
+.line-container {
+  top: 71px;
+  left: 0;
+  width: 102px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
+}
+.gate-results-parent,
+.image-12-icon {
+  position: absolute;
+  top: 8px;
+  left: 177px;
+  width: 102px;
+  height: 86px;
+}
+.image-12-icon {
+  top: 0;
+  left: 0;
+  height: 102px;
+  object-fit: cover;
+}
+.group-parent3 {
+  position: absolute;
+  top: 39px;
+  left: 350px;
+  width: 279px;
+  height: 102px;
+}
+.expand-arrow-icon1,
+.group-child2 {
+  position: absolute;
+  left: 0;
+  width: 20px;
+}
+.group-child2 {
+  top: 0;
+  background-color: var(--color-gainsboro);
+  height: 50px;
+}
+.expand-arrow-icon1 {
+  top: 15px;
+  height: 20px;
+  object-fit: contain;
+}
+.group-icon,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 50px;
+}
+.group-icon {
+  left: 960px;
+  object-fit: contain;
+}
+.ads,
+.group-parent4 {
+  position: absolute;
+  width: 980px;
+}
+.group-parent4 {
+  top: 65px;
+  left: 0;
+  height: 50px;
+}
+.ads {
+  top: 140px;
+  left: calc(50% - 490px);
+  height: 180px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-urbanist);
+}

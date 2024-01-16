@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-urbanist: Urbanist;
+  --font-raleway: Raleway;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-5xs: 8px;
+  --font-size-sm: 14px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --color-black: #000;
+  --primary: #246bfd;
+  --color-darkgray-100: #a1a1a1;
+  --color-darkgray-200: #9f9f9f;
+  --color-darkgray-300: #9e9e9e;
+  --color-white: #fff;
+  --color-gray-100: #7c7c7c;
+  --color-gray-200: #120e0e;
+  --color-silver-100: #c0c0c0;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+}
